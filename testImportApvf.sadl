@@ -1,6 +1,6 @@
 uri "http://sadl.imp/test_import_apvf" version "$Revision: 1.6 $ Last modified on $Date: 2015/06/30 21:27:34 $".
 
-import "http://research.ge.com/Acuity/aulo.owl" as aulo.
+import "http://research.ge.com/Acuity/aulo.owl" as aulo. 
 
 Genius is a type of Person.
 iq describes Person has values of type string. 
